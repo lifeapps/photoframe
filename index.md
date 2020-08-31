@@ -1,7 +1,13 @@
-## Welcome to GitHub Pages
+## Скачать AR Фоторамку
 
-You can use the [editor on GitHub](https://github.com/lifeapps/photoframe/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Здесь вы можете загрузить приложение **AR Фоторамка**
 
+### Системные требования:
+- Android OS 5.1 и выше
+- Основная камера 5МП и выше
+- Ниличие стабильного подключения к сети Интернет
+
+[Загрузить APK](https://lifeapps.github.io/photoframe/)
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
